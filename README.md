@@ -1,1 +1,4 @@
 # OIBSIP
+#oasisinfobyte
+#pythonprogramming
+#oasisinternship
